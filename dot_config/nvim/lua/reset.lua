@@ -57,6 +57,6 @@ vim.opt.conceallevel = 0 -- so that ``` is visible in MD files
 
 vim.g.netrw_browse_split = 0
 vim.g.netrw_banner = 0
-vim.g.netrw_liststyle = 3
+vim.g.netrw_liststyle = 0
 vim.g.netrw_showhide = 1
 vim.g.netrw_winsize = 25
