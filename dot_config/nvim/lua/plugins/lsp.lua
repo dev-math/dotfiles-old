@@ -38,7 +38,6 @@ return {
 				"jdtls",
 				"rust_analyzer",
 				"lua_ls",
-				"intelephense",
 			},
 		})
 
